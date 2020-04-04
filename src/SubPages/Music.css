@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background: url("../images/fallduluth.JPG");
+  background-color: "#ffffff";
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: auto 100vh;
+  font-family: "'Oswald', sans-serif";
+}
+
+.spot {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.title {
+  padding-bottom: 5%;
+}
